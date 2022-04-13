@@ -44,7 +44,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]
 
 This is a very beginner React App. A Meetup App list where user can create Meetups, View All meetups and Mark the favourite Ones.
 
@@ -118,9 +118,11 @@ Not expecting any kind of contribution !
 ## License
 <a href="http://www.wtfpl.net/"><img
        src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
-       width="100" height="35" alt="WTFPL" /></a>
-</br>
+       width="120" height="55" alt="WTFPL" /></a>
 Distributed under the WTFPL License. See `WTFPL.txt` for more information.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<!-- MARKDOWN LINKS & IMAGES -->
+
+[product-screenshot]: screenshots/create-meetups.png
